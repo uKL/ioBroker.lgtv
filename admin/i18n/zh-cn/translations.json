@@ -7,6 +7,7 @@
     "ip": "LG WebOS 电视的 IP 地址",
     "mac": "LG WebOS 电视的 MAC 地址",
     "power": "作为遥控器按钮关闭电视",
+    "customwolip": "使用自定义 Wake-On-LAN IP 。 这对于子网疏导广播可能是必要的.",
     "timeout": "超时（以毫秒为单位）",
     "reconnect": "重新连接间隔（以毫秒为单位）",
     "healthInterval": "轮询间隔（以毫秒为单位）",

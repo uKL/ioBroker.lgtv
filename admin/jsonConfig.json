@@ -65,6 +65,18 @@
       "xl": 5,
       "newLine": true
     },
+    "customwolip": {
+      "type": "text",
+      "label": "customwolip",
+      "trim": true,
+      "help": "optional",
+      "xs": 12,
+      "sm": 12,
+      "md": 12,
+      "lg": 5,
+      "xl": 5,
+      "newLine": true
+    },
     "help_tip": {
       "type": "staticText",
       "text": "help_tip",

@@ -7,6 +7,7 @@
     "ip": "IP adress of the LG WebOS TV",
     "mac": "MAC adress of the LG WebOS TV",
     "power": "Turn off the TV as a remote control button",
+    "customwolip": "Utiliser une IP Wake-On-LAN personnalisée. Cela peut s'avérer nécessaire pour les diffusions par sous-réseau (SDB).",
     "timeout": "Timeout in ms",
     "reconnect": "Reconnect interval in ms",
     "healthInterval": "Poll interval in ms",
